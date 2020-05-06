@@ -10,13 +10,14 @@ pip install -r requirements.txt`
 
 
 ### Download official pre-trained weights for COCO dataset  
-`yolov3 
-For Windows: You can download weights by clicking here [here](https://pjreddie.com/media/files/yolov3.weights)
+`yolov3 For Windows: 
+You can download weights by clicking here [here](https://pjreddie.com/media/files/yolov3.weights)`
 
 ### Saving your weights as Tensorflow model  
 Now you have to load the models and convert them to tensorflow checkpoint files.
 
-`yolov3
+
+`yolov3  
 python load_weights.py`  
 
 ### Running flask web app for two API endpoints 

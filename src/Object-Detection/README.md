@@ -5,20 +5,20 @@ Yolov3 is an algorithm that uses convolutional neural network to perform object 
 ## Getting Started  
 
 ### Pip  
-`Tensorflow CPU`  
-pip install -r requirements.txt
+Tensorflow CPU  
+`pip install -r requirements.txt`
 
 
 ### Download official pre-trained weights for COCO dataset  
-`yolov3 For Windows:`  
+yolov3 For Windows:    
 You can download weights by clicking here [here](https://pjreddie.com/media/files/yolov3.weights)
 
 ### Saving your weights as Tensorflow model  
 Now you have to load the models and convert them to tensorflow checkpoint files.
 
 
-`yolov3`  
-python load_weights.py  
+yolov3  
+`python load_weights.py`  
 
 ### Running flask web app for two API endpoints 
 
@@ -26,7 +26,7 @@ python load_weights.py
 
 This will start a web server on localhost. To check the detection open the `Postman`, select body > form-data > file and upload image. 
 
-`endpoints`  
+endpoints  
 `http://localhost:5000/image`  
 `http://localhost:5000/detections`  
 

@@ -51,10 +51,8 @@ This route takes in the image input and returns the image response with all the 
 Video can only be run through this command so far.  
 `python detect_video.py --video path-to-video`
 
-### Demo 
-`https://www.youtube.com/watch?v=RWQoXcmKj4M`  
-`https://www.youtube.com/watch?v=IOtumq42sCM`
-
+### iOS Application 
+To run the iOS application run the .xcodeproj found in src/AIes-Ios./Swift. In order for the application to run, the application must be in lanscape mode and must have the URL in line #778 updated according to the service running. 
 
 ### Authors 
 * Akash Sindhu  
@@ -67,4 +65,5 @@ Video can only be run through this command so far.
 * [Yolov3 TensorFlow 2 Amazing Implementation](https://github.com/zzh8829/yolov3-tf2)  
 * [Another Yolov3 TensorFlow 2](https://github.com/heartkilla/yolo-v3)   
 * [Yolo v3 official paper](https://arxiv.org/abs/1804.02767)  
-* [A Tensorflow Slim implementation](https://github.com/mystic123/tensorflow-yolo-v3)  
+* [A Tensorflow Slim implementation](https://github.com/mystic123/tensorflow-yolo-v3) 
+* [AVCam Building a Camera App](https://developer.apple.com/documentation/avfoundation/cameras_and_media_capture/avcam_building_a_camera_app) 

@@ -51,6 +51,10 @@ This route takes in the image input and returns the image response with all the 
 Video can only be run through this command so far.  
 `python detect_video.py --video path-to-video`
 
+### Demo 
+`https://www.youtube.com/watch?v=RWQoXcmKj4M`
+`https://www.youtube.com/watch?v=IOtumq42sCM`
+
 
 ### Authors 
 * Akash Sindhu  

@@ -2,6 +2,15 @@
 
 Yolov3 is an algorithm that uses convolutional neural network to perform object detection. This repository creates Yolov3 with two endpoints each for image and video detections. 
 
+## Directory Structure
+
+    .
+    ├── doc                     # Canvas documents, presentations
+    ├── src                     # Source files 
+    ├── pubs                    # Documentation files 
+    │   ├── figs                # Figures
+    └── README.md
+
 ## Getting Started  
 
 ### Pip  

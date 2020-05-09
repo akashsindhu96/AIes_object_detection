@@ -54,6 +54,10 @@ Video can only be run through this command so far.
 ### iOS Application 
 To run the iOS application run the .xcodeproj found in src/AIes-Ios./Swift. In order for the application to run, the application must be in lanscape mode and must have the URL in line #778 updated according to the service running. 
 
+### Demo 
+*[Demo for video object detection](https://www.youtube.com/watch?v=RWQoXcmKj4M)
+*[Demo for picture object detection](https://www.youtube.com/watch?v=IOtumq42sCM)
+
 ### Authors 
 * Akash Sindhu  
 * Maninder Singh   

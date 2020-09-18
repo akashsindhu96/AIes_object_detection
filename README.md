@@ -5,7 +5,7 @@ Yolov3 is an algorithm that uses convolutional neural network to perform object 
 ## Features 
 
 1. Two Endpoints (image and Video)
-2. Boundary boxes 
+2. Bounding boxes 
 3. 80 objects can be classified and detected. 
 
 ## Directory Structure
